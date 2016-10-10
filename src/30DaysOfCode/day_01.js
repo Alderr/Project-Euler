@@ -63,3 +63,4 @@ var printAll = function(){
   console.log((+inputDouble + double));
   console.log(inputString + string);
 };
+ 
